@@ -1,6 +1,6 @@
 # Fair *k*-Center Clustering with MapReduce (Spark)
 
-Big Data Computing — Homework 1 (Group 35), University of Padua.
+Big Data Computing, University of Padua.
 
 A 2-round, coreset-based MapReduce strategy for **fair *k*-center clustering**, implemented in Java on Apache Spark and tested on the CloudVeneto cluster.
 
